@@ -1,5 +1,5 @@
 {
-  "name": "gameplayer",
+  "name": "stone_paper_scissors",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
